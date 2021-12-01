@@ -1,2 +1,1 @@
-print("Hello_World")
-#My first program
+My first program
